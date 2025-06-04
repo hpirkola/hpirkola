@@ -9,6 +9,7 @@ Thanks for stopping by! <3
 ## Contact me
 
 📧 pirkolahelmi@gmail.com
+
 💼 [LinkedIn](www.linkedin.com/in/helmi-pirkola-84499b333)
 
 <!--
