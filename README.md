@@ -1,6 +1,6 @@
 ## Hi there, I'm Helmi 👋
 
-I’m a programmer and currently studying at Hive Helsinki. My focus right now is C and C++ but I have some experience also in Python and I’m always eager to learn new things. I also have a Bachelor's degree in performing arts and I always approach things with a creative approach.
+I’m a programmer and currently studying at Hive Helsinki. My focus right now is C and C++ but I have some experience also in Python and I’m always eager to learn new things. I also have a Bachelor's degree in Performing Arts and I always approach things with a creative mindset.
 
 I like problem solving and I have always been interested in how things work and creating things from scratch. At the moment I’m learning audio programming and dreaming about working with sound in the future.
 
